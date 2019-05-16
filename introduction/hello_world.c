@@ -6,5 +6,5 @@ main()
 }
 
 // Compile and run the program
-// gcc hello_world.c -o hello_world
+// gcc hello_world.c
 // ./hello_world
